@@ -1,0 +1,1 @@
+python launch.py --config configs/mushroom_house.yaml --train --gpu 1 system.prompt_processor.prompt="a 3D model of realistic golden fish"

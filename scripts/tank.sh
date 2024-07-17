@@ -1,0 +1,1 @@
+python launch.py --config configs/tank.yaml --train --gpu 1 system.prompt_processor.prompt="a 3D model of realistic camouflage tank"
